@@ -52,7 +52,7 @@ console.log(`my current balacne is: ${myBalance}`);
             ;}else if(cashAns.cash==="15000"){
             myBalance -=cashAns.cash
              console.log(`Your remaining balance is ${myBalance}`);
-           ;}else if(cashAns.cash==="3000"){
+           ;}else if(cashAns.cash==="30000"){
                 myBalance -=cashAns.cash
                 console.log(`Your remaining balance is ${myBalance}`);
                 ;}else if(cashAns.cash==="50000"){
